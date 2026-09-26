@@ -4,3 +4,4 @@
 
 <h4>Reverse String: </h4>
 Please visit the `script.js` file to view the code how to reverse a string!
+To do this, visit `script.js` file.
